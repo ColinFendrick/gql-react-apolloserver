@@ -1,0 +1,19 @@
+{
+  "name": "graphql-react-apollo",
+  "version": "0.1.0",
+  "description": "Github api fetch w/ graphql, react+apollo, node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "colinfendrick",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "axios": "^0.21.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}
